@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Kirk of Scotland presented to the Parliament of that kingdom on Munday the 5 of March, 1647. And of a rising there. Also the marchings of some regiaments of the Scots army against the malignants that goe out of England thither. The names of severall lords made in Scotland. And divers votes, and orders of that Parliament. / Certified in a letter from Mr. Rosse, dated at Edenburgh, March 7. 1647. March 15. 1647. Imprimatur Gil. Mabbot.</title>
+            <author>Rosse, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79722</idno>
+            <idno type="STC">Wing C4221</idno>
+            <idno type="STC">Thomason E432_10</idno>
+            <idno type="STC">ESTC R205276</idno>
+            <idno type="EEBO-CITATION">99864692</idno>
+            <idno type="PROQUEST">99864692</idno>
+            <idno type="VID">161526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161526)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E432[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Kirk of Scotland presented to the Parliament of that kingdom on Munday the 5 of March, 1647. And of a rising there. Also the marchings of some regiaments of the Scots army against the malignants that goe out of England thither. The names of severall lords made in Scotland. And divers votes, and orders of that Parliament. / Certified in a letter from Mr. Rosse, dated at Edenburgh, March 7. 1647. March 15. 1647. Imprimatur Gil. Mabbot.</title>
+                  <author>Rosse, William.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A narrative of events in Scotland from 29 Feb. to 6 March 1647 [i.e., 1648]. Does not include the text of the declaration.</note>
+                  <note>Annotation on Thomason copy: "1647"; the 8 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161526:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the Kirk of SCOTLAND PRESENTED To the Parliament of that Kingdom on Munday the
+5 <hi>of March,</hi> 1647. And of a Riſing there.</p>
+            <p>ALSO The Marchings of ſome Regiaments of the <hi>Scots Army againſt the Malignants that goe
+out of</hi> ENGLAND <hi>thither. The Names of ſeverall Lords made in</hi> Scotland. AND Divers
+Votes, and Orders of that Parliament. CERTIFIED In a Letter from Mr. <hi>ROSSE,</hi> Dated at
+<hi>Edenburgh, March</hi> 7. 1647.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>March 15. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Imprimatur</hi>
+                        </p>
+                        <closer>
+                           <signed>Gil. Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the
+Queens-head Tavern. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161526:2"/>
+            <pb n="1" facs="tcp:161526:2"/>
+            <head>The Copy of a LETTER FROM Mr. VVILLIAM ROSSE, Concerning <hi>The Affaires of SCOTLAND: Dated
+at Edenburgh, March</hi> 7. 1647.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THe Convention of the Eſtates of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> were very buſie on Tueſday the 29 of
+<hi>Feb.</hi> 1647. in preparing of their tranſacti<g ref="char:EOLhyphen"/>ons to be in a readineſs to preſent to
+the Par<g ref="char:EOLhyphen"/>liament, at their ſitting down on Thurſday following: There came then an Alarm into
+<hi>Scotland,</hi> (ſupported on the pillars of Malig<g ref="char:EOLhyphen"/>nants, eſpecially <hi>Engliſh</hi>)
+that the <hi>Engliſh</hi> Ar<g ref="char:EOLhyphen"/>my was marching to invade <hi>Scotland,</hi> which put the
+Inhabitants of this kingdome into a
+<pb n="2" facs="tcp:161526:3"/>
+great fear. The Commiſſioners of the Kirk were then very ſerious for diſpatch of their
+Declaration to be in readineſſe to be preſen<g ref="char:EOLhyphen"/>ted to the Parliament.</p>
+            <p>
+               <hi>Wedneſday,</hi> the 1 of March inſtant, great preparations was making for the
+Parlia<g ref="char:EOLhyphen"/>ments ſiting downe the next day. The Ci<g ref="char:EOLhyphen"/>ty very full, Malignants not ſo much
+coun<g ref="char:EOLhyphen"/>tenanced as they hoped, ſo that many are gone from <hi>Edenburgh.</hi>
+            </p>
+            <p>
+               <hi>Thurſday</hi> March the 2 The Parliament ſat down at their uſuall place of
+Aſſembling, where, after their paſſing over of the uſuall ceremonies for ſuch a
+meeting: There were many ſet Speeches made by divers of the Lords and others, concerning their
+preſi<g ref="char:EOLhyphen"/>dent, which is a place as the Speaker is in <hi>England,</hi> divers were nominated, but it
+was cheefly diſputed about four Lords <hi>(viz)</hi> The Lord Chancellour <hi>Loudoune,</hi> the
+Earle <hi>Ca<g ref="char:EOLhyphen"/>ſtles,</hi> the Lord <hi>Balmerino,</hi> and the Lord <hi>Bur<g ref="char:EOLhyphen"/>ley,</hi> and many
+ſtood for each of them, but being put to the queſtion, it was reſolved by the major part,
+That the Lord Chancel<g ref="char:EOLhyphen"/>lour <hi>Loudoune</hi> ſhould be Lord Preſident</p>
+            <p>Many new Lords are made here in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="4" facs="tcp:161526:3"/>
+without muſing of the buſineſſe, and they doe ſit in Parliament, Sir <hi>William
+Coker<g ref="char:EOLhyphen"/>ham</hi> is made a Lord, and ſo is Sir <hi>John San<g ref="char:EOLhyphen"/>derſon,</hi> and Sir <hi>John
+Hamilton</hi> of <hi>Burlington</hi> and others, who are received as Peeres by the Parliament. And
+the Lord <hi>Lowre</hi> is crea<g ref="char:EOLhyphen"/>ted Earle of <hi>Athe,</hi> And it is ſaid that ſome o<g ref="char:EOLhyphen"/>thers
+are ſhortly to be made.</p>
+            <p>
+               <hi>Friday</hi> the 3 of March, The members of the Parliament being called according to the rule
+for the Counties and Burroughes, and the ſeverall Commiſſioners debated, it ap<g ref="char:EOLhyphen"/>peared that
+(by reaſon of the great diviſions in the ſeverall Shires) there hath been great ſtirres in
+chuſing of the Members, Inſomuch that (in many pla<g ref="char:EOLhyphen"/>ces) they had choſen double the number of
+Commiſ<g ref="char:EOLhyphen"/>ſioners for the Parliament, one party by the Malig<g ref="char:EOLhyphen"/>nants, and another by the
+well-affected party, the de<g ref="char:EOLhyphen"/>bates about which buſineſſe took up much time.</p>
+            <p>
+               <hi>Saturday</hi> March 4 Alſo was ſpent about the debates and reſolutions concerning the
+Counties and Burrows many of which are to chuſe againe, by reaſon of falſe elections, in
+which not onely marqueſſe <hi>Hambleton</hi> on the one ſide, but others on the other ſide,
+have bin ve<g ref="char:EOLhyphen"/>ry active, ſo that the people have much prejudiced from making free Elections. The
+Earle of <hi>Nottingham</hi> and the other Commiſſioners, preſented papers to the Lord
+Preſident to be communicated to the Parlia<g ref="char:EOLhyphen"/>ment, to take their former papers into
+conſideration.</p>
+            <p>
+               <pb n="4" facs="tcp:161526:4"/>Mr. <hi>Marſhall</hi> this laſt Lords day,
+<hi>March</hi> 5. preached at Mr. <hi>Galaſpies</hi> Church, and had a very great audience, his
+Sermon was very ſea<g ref="char:EOLhyphen"/>ſonable, and we all hope it will doe good, the good Miniſters here do
+daily preſſe the main<g ref="char:EOLhyphen"/>tainance of the conjunction between the two kingdomes, as the intereſt
+of all honeſt men bindes them to doe, and indeed they ſpeak plainly, and as men that are
+ſenſible of their preſent condition. The <hi>Engliſh</hi> Commiſ<g ref="char:EOLhyphen"/>ſioners daily and
+hourely wait, to ſee what concluſion they ſhall receive from the <hi>Scots</hi> Parliament,
+that they may not fruſtrate the expectation of the <hi>Engliſh</hi> Parliament, nor betray the
+truſt committed to them. And I know they will doe their utmoſt, that they may be able to beget
+a right underſtanding here, of things. One thing is to be lamented, that ſome honeſt men
+ſeem not willing to be right informed, as yet.</p>
+            <p>On that day the Provoſt of <hi>Edenburgh,</hi> re<g ref="char:EOLhyphen"/>ceived information that ſome
+<hi>Engliſh</hi> in companies came in, and entred the borders of <hi>Scotland,</hi> about
+<hi>Carlile</hi> ſide: And that they were come up as farre as <hi>Hagewick,</hi> and
+<hi>Sete<g ref="char:EOLhyphen"/>rick,</hi> which is within 25 or 26 miles of this place.</p>
+            <p>
+               <pb n="5" facs="tcp:161526:4"/>Yeſterday being Munday the 6 of <hi>March,</hi>
+the Parliament being ſate, were advertiſed of a great number of <hi>Engliſh</hi> Cavaliers,
+(and malignants of <hi>Scotland,</hi> joyning with them underhand) were come into the frontier
+Counties of <hi>Scotland.</hi> In which Captain <hi>Hall,</hi> Captain <hi>Wogan,</hi> and others,
+are ſaid to be chief; They are increaſed to between two and three hundred horſe, with ſome
+foot, and report that thouſands more are comming, whereupon the <hi>Scots</hi> are making ready
+for their defence, and ſome Regiaments are to march towards the borders, to prevent the dangers
+of Malignants, whoſe deſignes the Parliament here, I hope, will be ſenſible of.</p>
+            <p>Here is ſome talk here, as if ſome of judge<g ref="char:EOLhyphen"/>ment ſhould think that this Parliament will
+not ſit here many weeks. But they ſit at pre<g ref="char:EOLhyphen"/>ſent very cloſe, and riſe not till it was
+very late laſt night.</p>
+            <p>On the Lords day night laſt, there came above 70 Horſemen with a ſmall number of Foote, to
+<hi>Carlile</hi> and with ladders ſcaled the wals, entred the Caſtle, broke open the Goal, and
+releaſed the <hi>Moſſe</hi> Troopers, and other priſoners, wounded the Gaoler and all
+mar<g ref="char:EOLhyphen"/>ched together into <hi>Scotland.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:161526:5"/>It is feared that there will be an Army raiſed to
+come in, for the malignants giveth it out already, that if the Parliament will not give way for
+raiſing of an Army, they will raiſe one of their own coſt. The Church hath finiſhed the
+Declaration, concerning which they have moved the Parliament for peace, yet the Malignants are
+powerfull with the Cavaliers par<g ref="char:EOLhyphen"/>ty, and there is many Engliſh men ly ng in and about the
+borders. Thoſe that paſſed by <hi>Carlile,</hi> gave out themſelves for Sir <hi>Thomas
+Fairfaxes</hi> men, untill they were paſt, and then they declared that they were for the
+King.</p>
+            <p>Here is much veying by ſome for a war with En<g ref="char:EOLhyphen"/>gland, but I hope will not prevaile. The
+Parlia<g ref="char:EOLhyphen"/>ment of Englands laſt Declaration did do much good here, amongſt ſome honeſt-minded
+men, though ſome others are not yet convinced: and it was thought all this week, all would doe
+well.</p>
+            <p>This laſt night came in a packet with Declarations, which will be delivered to morrow to the
+Parlia<g ref="char:EOLhyphen"/>ment, This night we heare will come in the Earle of <hi>Stamford.</hi> Mr.
+<hi>Stapleton</hi> is not yet come. I hope by the next, to ſend you better news, which is all at
+preſent, but that I am</p>
+            <closer>
+               <signed>Your Lordſhips humble ſervant, WILL. ROSSE.</signed>
+               <dateline>
+                  <hi>Edenburgh</hi>
+                  <date>
+                     <hi>the</hi> 7. <hi>March</hi> 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
